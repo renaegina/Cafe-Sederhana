@@ -2,14 +2,6 @@
 
 <p align="center"><img src="Output.JPG" width="700px" alt="Output"></a></p>
 
-## Features
-
-- Buyer Details (Name, Phone Number, Ticket, Departure Day)
-- Destinations
-- Train Options
-- Payment
-- Alerts
-
 ## Tech
 
 Aplikasi ini dirancang menggunakan:
